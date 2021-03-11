@@ -2,7 +2,7 @@
   "name": "winwheel",
   "version": "1.0.0",
   "description": "Modified verson of javascript-winwheel to meet my needs",
-  "main": "index.js",
+  "main": "Winwheel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
